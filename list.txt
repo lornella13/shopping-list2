@@ -12,3 +12,8 @@ ketchup
 rice
 onions
 paper towel
+dettol
+gik
+soap
+air freshener
+vim
